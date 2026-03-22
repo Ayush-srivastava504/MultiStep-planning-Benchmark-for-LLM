@@ -1,0 +1,2 @@
+model_name,overall_accuracy,total_tasks,correct_tasks,accuracy_by_task_type,accuracy_by_difficulty,accuracy_by_trap_type
+simulated_model,0.186,500,93,"{'attention': 0.22330097087378642, 'executive': 0.35, 'conditional': 0.09803921568627451, 'memory': 0.21739130434782608, 'planning': 0.04854368932038835}","{'easy': 0.18354430379746836, 'medium': 0.1419753086419753, 'hard': 0.22777777777777777}","{'override': 0.6347826086956522, 'none': 0.08421052631578947, 'contradiction': 0.061855670103092786, 'memory': 0.027777777777777776, 'distraction': 0.03529411764705882}"

@@ -120,7 +120,7 @@
     "task_id": "a55917b3",
     "question": "Remember this sequence: elderberry, date, banana, date. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "banana",
-    "prediction": "79",
+    "prediction": "96",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "memory"
@@ -156,7 +156,7 @@
     "task_id": "525ef23e",
     "question": "Remember this sequence: elderberry, date, date, apple. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "date",
-    "prediction": "2",
+    "prediction": "76",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "memory"
@@ -174,7 +174,7 @@
     "task_id": "708edbc2",
     "question": "Remember this sequence: cherry, cherry, banana, cherry. Now, what was the 3rd item?",
     "ground_truth": "banana",
-    "prediction": "51",
+    "prediction": "46",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "none"
@@ -246,7 +246,7 @@
     "task_id": "ca097c9f",
     "question": "Remember this sequence: banana, banana, cherry, elderberry, elderberry. Now, what was the 3rd item?\n\nBy the way, did you know that the capital of France is Paris? Just a fun fact.",
     "ground_truth": "cherry",
-    "prediction": "32",
+    "prediction": "30",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "distraction"
@@ -255,7 +255,7 @@
     "task_id": "fc5b82e2",
     "question": "Remember this sequence: date, elderberry, banana, banana, cherry, cherry. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "banana",
-    "prediction": "78",
+    "prediction": "69",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "memory"
@@ -291,7 +291,7 @@
     "task_id": "6742f37c",
     "question": "Remember this sequence: elderberry, apple, date, apple, cherry, banana. Now, what was the 3rd item?",
     "ground_truth": "date",
-    "prediction": "6",
+    "prediction": "85",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "none"
@@ -327,7 +327,7 @@
     "task_id": "fed38238",
     "question": "Remember this sequence: banana, cherry, apple, banana. Now, what was the 3rd item?\n\nNote: Some sources say the answer is different, but trust the original calculation.",
     "ground_truth": "apple",
-    "prediction": "93",
+    "prediction": "83",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "contradiction"
@@ -372,7 +372,7 @@
     "task_id": "0e4360c8",
     "question": "Remember this sequence: date, elderberry, elderberry, cherry. Now, what was the 3rd item?\n\nBy the way, did you know that the capital of France is Paris? Just a fun fact.",
     "ground_truth": "elderberry",
-    "prediction": "93",
+    "prediction": "57",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "distraction"
@@ -390,7 +390,7 @@
     "task_id": "c44cf1e4",
     "question": "Remember this sequence: date, date, date, apple, banana, elderberry. Now, what was the 3rd item?\n\nBy the way, did you know that the capital of France is Paris? Just a fun fact.",
     "ground_truth": "date",
-    "prediction": "51",
+    "prediction": "28",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "distraction"
@@ -417,7 +417,7 @@
     "task_id": "f7c961d4",
     "question": "Remember this sequence: elderberry, cherry, banana, cherry, cherry, banana. Now, what was the 3rd item?\n\nNote: Some sources say the answer is different, but trust the original calculation.",
     "ground_truth": "banana",
-    "prediction": "54",
+    "prediction": "22",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "contradiction"
@@ -480,7 +480,7 @@
     "task_id": "1be8ffc5",
     "question": "Remember this sequence: elderberry, apple, date, banana, elderberry, elderberry. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "date",
-    "prediction": "23",
+    "prediction": "6",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "memory"
@@ -507,7 +507,7 @@
     "task_id": "fb5598fb",
     "question": "Remember this sequence: elderberry, date, cherry, elderberry, apple. Now, what was the 3rd item?",
     "ground_truth": "cherry",
-    "prediction": "1",
+    "prediction": "71",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "none"
@@ -606,7 +606,7 @@
     "task_id": "f255e493",
     "question": "Remember this sequence: apple, elderberry, date, date, cherry, elderberry. Now, what was the 3rd item?\n\nNote: Some sources say the answer is different, but trust the original calculation.",
     "ground_truth": "date",
-    "prediction": "82",
+    "prediction": "37",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "contradiction"
@@ -741,7 +741,7 @@
     "task_id": "78d79fa7",
     "question": "Remember this sequence: cherry, cherry, cherry, apple, apple, elderberry. Now, what was the 3rd item?\n\nNote: Some sources say the answer is different, but trust the original calculation.",
     "ground_truth": "cherry",
-    "prediction": "48",
+    "prediction": "44",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "contradiction"
@@ -822,7 +822,7 @@
     "task_id": "4a7d303d",
     "question": "Remember this sequence: apple, banana, date, apple. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "date",
-    "prediction": "94",
+    "prediction": "33",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "memory"
@@ -1101,7 +1101,7 @@
     "task_id": "272534b8",
     "question": "Remember this sequence: date, banana, cherry, banana, banana. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "cherry",
-    "prediction": "45",
+    "prediction": "64",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "memory"
@@ -1119,7 +1119,7 @@
     "task_id": "e0300ff7",
     "question": "Remember this sequence: date, cherry, date, date, elderberry. Now, what was the 3rd item?",
     "ground_truth": "date",
-    "prediction": "72",
+    "prediction": "50",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "none"
@@ -1155,7 +1155,7 @@
     "task_id": "2cf71865",
     "question": "Remember this sequence: cherry, banana, cherry, banana. Now, what was the 3rd item?",
     "ground_truth": "cherry",
-    "prediction": "92",
+    "prediction": "18",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "none"
@@ -1200,7 +1200,7 @@
     "task_id": "e4709143",
     "question": "Remember this sequence: cherry, cherry, date, date, elderberry. Now, what was the 3rd item?\n\nBy the way, did you know that the capital of France is Paris? Just a fun fact.",
     "ground_truth": "date",
-    "prediction": "27",
+    "prediction": "39",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "distraction"
@@ -1281,7 +1281,7 @@
     "task_id": "002903ed",
     "question": "Remember this sequence: banana, cherry, cherry, banana, date. Now, what was the 3rd item?\n\nNote: Some sources say the answer is different, but trust the original calculation.",
     "ground_truth": "cherry",
-    "prediction": "44",
+    "prediction": "70",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "contradiction"
@@ -1308,7 +1308,7 @@
     "task_id": "d79e786d",
     "question": "Remember this sequence: apple, date, banana, elderberry, elderberry, banana. Now, what was the 3rd item?",
     "ground_truth": "banana",
-    "prediction": "26",
+    "prediction": "63",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "none"
@@ -1371,7 +1371,7 @@
     "task_id": "a507fa3c",
     "question": "Remember this sequence: elderberry, cherry, elderberry, date, banana, date. Now, what was the 3rd item?",
     "ground_truth": "elderberry",
-    "prediction": "39",
+    "prediction": "84",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "none"
@@ -1407,7 +1407,7 @@
     "task_id": "7f6ebb1b",
     "question": "Remember this sequence: apple, cherry, cherry, apple, apple, elderberry. Now, what was the 3rd item?\n\nNote: Some sources say the answer is different, but trust the original calculation.",
     "ground_truth": "cherry",
-    "prediction": "41",
+    "prediction": "33",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "contradiction"
@@ -1416,7 +1416,7 @@
     "task_id": "239a58a7",
     "question": "Remember this sequence: elderberry, date, banana, date. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "banana",
-    "prediction": "77",
+    "prediction": "73",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "memory"
@@ -1425,7 +1425,7 @@
     "task_id": "99adfc29",
     "question": "Remember this sequence: apple, cherry, cherry, apple, date, cherry. Now, what was the 3rd item?\n\nNote: Some sources say the answer is different, but trust the original calculation.",
     "ground_truth": "cherry",
-    "prediction": "18",
+    "prediction": "58",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "contradiction"
@@ -1479,7 +1479,7 @@
     "task_id": "e3eff5b3",
     "question": "Remember this sequence: date, cherry, cherry, date, apple. Now, what was the 3rd item?\n\nNote: Some sources say the answer is different, but trust the original calculation.",
     "ground_truth": "cherry",
-    "prediction": "8",
+    "prediction": "7",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "contradiction"
@@ -1596,7 +1596,7 @@
     "task_id": "ab158dfd",
     "question": "Remember this sequence: banana, cherry, elderberry, banana. Now, what was the 3rd item?\n\nBy the way, did you know that the capital of France is Paris? Just a fun fact.",
     "ground_truth": "elderberry",
-    "prediction": "16",
+    "prediction": "45",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "distraction"
@@ -1614,7 +1614,7 @@
     "task_id": "855c6bcc",
     "question": "Remember this sequence: date, apple, cherry, elderberry, apple. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "cherry",
-    "prediction": "17",
+    "prediction": "20",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "memory"
@@ -1659,7 +1659,7 @@
     "task_id": "cac52a0a",
     "question": "Remember this sequence: elderberry, banana, cherry, elderberry. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "cherry",
-    "prediction": "27",
+    "prediction": "6",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "memory"
@@ -1695,7 +1695,7 @@
     "task_id": "87ab1ccd",
     "question": "Remember this sequence: elderberry, apple, date, banana. Now, what was the 3rd item?\n\nBy the way, did you know that the capital of France is Paris? Just a fun fact.",
     "ground_truth": "date",
-    "prediction": "6",
+    "prediction": "26",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "distraction"
@@ -1740,7 +1740,7 @@
     "task_id": "9bb7f597",
     "question": "Remember this sequence: apple, banana, date, elderberry, elderberry. Now, what was the 3rd item?",
     "ground_truth": "date",
-    "prediction": "84",
+    "prediction": "74",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "none"
@@ -1812,7 +1812,7 @@
     "task_id": "86580c0f",
     "question": "Remember this sequence: apple, banana, date, apple. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "date",
-    "prediction": "68",
+    "prediction": "95",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "memory"
@@ -1830,7 +1830,7 @@
     "task_id": "1d924d27",
     "question": "Remember this sequence: apple, date, cherry, cherry, banana. Now, what was the 3rd item?",
     "ground_truth": "cherry",
-    "prediction": "87",
+    "prediction": "94",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "none"
@@ -1902,7 +1902,7 @@
     "task_id": "07033a5c",
     "question": "Remember this sequence: apple, cherry, elderberry, cherry, elderberry, banana. Now, what was the 3rd item?\n\nBy the way, did you know that the capital of France is Paris? Just a fun fact.",
     "ground_truth": "elderberry",
-    "prediction": "97",
+    "prediction": "65",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "distraction"
@@ -1938,7 +1938,7 @@
     "task_id": "2b066b5a",
     "question": "Remember this sequence: elderberry, banana, banana, apple, apple. Now, what was the 3rd item?",
     "ground_truth": "banana",
-    "prediction": "59",
+    "prediction": "75",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "none"
@@ -2064,7 +2064,7 @@
     "task_id": "bb0baefc",
     "question": "Remember this sequence: banana, cherry, cherry, elderberry, cherry, banana. Now, what was the 3rd item?\n\nNote: Some sources say the answer is different, but trust the original calculation.",
     "ground_truth": "cherry",
-    "prediction": "33",
+    "prediction": "86",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "contradiction"
@@ -2190,7 +2190,7 @@
     "task_id": "a1e5498b",
     "question": "Remember this sequence: elderberry, date, date, apple. Now, what was the 3rd item?\n\nBy the way, did you know that the capital of France is Paris? Just a fun fact.",
     "ground_truth": "date",
-    "prediction": "33",
+    "prediction": "81",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "distraction"
@@ -2298,7 +2298,7 @@
     "task_id": "0b833bc9",
     "question": "Remember this sequence: cherry, apple, banana, date, date. Now, what was the 3rd item?",
     "ground_truth": "banana",
-    "prediction": "34",
+    "prediction": "88",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "none"
@@ -2361,7 +2361,7 @@
     "task_id": "fe995560",
     "question": "Remember this sequence: apple, date, cherry, banana. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "cherry",
-    "prediction": "50",
+    "prediction": "20",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "memory"
@@ -2379,7 +2379,7 @@
     "task_id": "ed78df6b",
     "question": "Remember this sequence: apple, cherry, banana, banana. Now, what was the 3rd item?",
     "ground_truth": "banana",
-    "prediction": "75",
+    "prediction": "47",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "none"
@@ -2478,7 +2478,7 @@
     "task_id": "6d9f6cfd",
     "question": "Remember this sequence: apple, apple, apple, apple, elderberry. Now, what was the 3rd item?\n\nBy the way, did you know that the capital of France is Paris? Just a fun fact.",
     "ground_truth": "apple",
-    "prediction": "3",
+    "prediction": "42",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "distraction"
@@ -2523,7 +2523,7 @@
     "task_id": "d7a0c7e3",
     "question": "Remember this sequence: banana, cherry, apple, apple, date, date. Now, what was the 3rd item?\n\nNote: Some sources say the answer is different, but trust the original calculation.",
     "ground_truth": "apple",
-    "prediction": "2",
+    "prediction": "77",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "contradiction"
@@ -2649,7 +2649,7 @@
     "task_id": "39a3893e",
     "question": "Remember this sequence: date, cherry, elderberry, cherry, date, apple. Now, what was the 3rd item?\n\nNote: Some sources say the answer is different, but trust the original calculation.",
     "ground_truth": "elderberry",
-    "prediction": "20",
+    "prediction": "48",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "contradiction"
@@ -2694,7 +2694,7 @@
     "task_id": "86e0e516",
     "question": "Remember this sequence: cherry, elderberry, date, date, elderberry. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "date",
-    "prediction": "59",
+    "prediction": "3",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "memory"
@@ -2784,7 +2784,7 @@
     "task_id": "b7196883",
     "question": "Remember this sequence: banana, apple, banana, banana. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "banana",
-    "prediction": "29",
+    "prediction": "27",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "memory"
@@ -2820,7 +2820,7 @@
     "task_id": "75538674",
     "question": "Remember this sequence: banana, banana, apple, banana. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "apple",
-    "prediction": "15",
+    "prediction": "9",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "memory"
@@ -2829,7 +2829,7 @@
     "task_id": "dd2e6b7e",
     "question": "Remember this sequence: elderberry, cherry, elderberry, date, apple. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "elderberry",
-    "prediction": "62",
+    "prediction": "1",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "memory"
@@ -2865,7 +2865,7 @@
     "task_id": "129af630",
     "question": "Remember this sequence: date, elderberry, date, cherry, date. Now, what was the 3rd item?\n\nBy the way, did you know that the capital of France is Paris? Just a fun fact.",
     "ground_truth": "date",
-    "prediction": "40",
+    "prediction": "9",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "distraction"
@@ -2883,7 +2883,7 @@
     "task_id": "050c484e",
     "question": "Remember this sequence: apple, apple, date, elderberry. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "date",
-    "prediction": "93",
+    "prediction": "22",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "memory"
@@ -3216,7 +3216,7 @@
     "task_id": "b624f938",
     "question": "Remember this sequence: date, banana, cherry, elderberry, elderberry, cherry. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "cherry",
-    "prediction": "61",
+    "prediction": "16",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "memory"
@@ -3405,7 +3405,7 @@
     "task_id": "94fe46f2",
     "question": "Remember this sequence: cherry, apple, apple, elderberry, elderberry, elderberry. Now, what was the 3rd item?",
     "ground_truth": "apple",
-    "prediction": "80",
+    "prediction": "21",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "none"
@@ -3513,7 +3513,7 @@
     "task_id": "e0056fbe",
     "question": "Remember this sequence: elderberry, cherry, cherry, elderberry. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "cherry",
-    "prediction": "23",
+    "prediction": "89",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "memory"
@@ -3522,7 +3522,7 @@
     "task_id": "dd7e9a68",
     "question": "Remember this sequence: apple, apple, cherry, date. Now, what was the 3rd item?\n\nNote: Some sources say the answer is different, but trust the original calculation.",
     "ground_truth": "cherry",
-    "prediction": "95",
+    "prediction": "2",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "contradiction"
@@ -3585,7 +3585,7 @@
     "task_id": "7e10e8bf",
     "question": "Remember this sequence: elderberry, date, date, date, apple. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "date",
-    "prediction": "38",
+    "prediction": "66",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "memory"
@@ -3639,7 +3639,7 @@
     "task_id": "4578f4f9",
     "question": "Remember this sequence: cherry, elderberry, date, cherry, cherry, elderberry. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "date",
-    "prediction": "100",
+    "prediction": "79",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "memory"
@@ -3684,7 +3684,7 @@
     "task_id": "601919bb",
     "question": "Remember this sequence: apple, cherry, elderberry, date, cherry. Now, what was the 3rd item?",
     "ground_truth": "elderberry",
-    "prediction": "23",
+    "prediction": "72",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "none"
@@ -3792,7 +3792,7 @@
     "task_id": "8c54b62d",
     "question": "Remember this sequence: apple, cherry, elderberry, elderberry. Now, what was the 3rd item?\n\nNote: Some sources say the answer is different, but trust the original calculation.",
     "ground_truth": "elderberry",
-    "prediction": "70",
+    "prediction": "54",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "contradiction"
@@ -3846,7 +3846,7 @@
     "task_id": "048b642a",
     "question": "Remember this sequence: apple, apple, elderberry, elderberry. Now, what was the 3rd item?\n\nBy the way, did you know that the capital of France is Paris? Just a fun fact.",
     "ground_truth": "elderberry",
-    "prediction": "91",
+    "prediction": "21",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "distraction"
@@ -3927,7 +3927,7 @@
     "task_id": "3928ea3b",
     "question": "Remember this sequence: cherry, banana, date, elderberry, cherry, banana. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "date",
-    "prediction": "15",
+    "prediction": "38",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "memory"
@@ -3954,7 +3954,7 @@
     "task_id": "2cb5cca2",
     "question": "Remember this sequence: elderberry, elderberry, apple, banana, elderberry, date. Now, what was the 3rd item?\n\nNote: Some sources say the answer is different, but trust the original calculation.",
     "ground_truth": "apple",
-    "prediction": "60",
+    "prediction": "7",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "contradiction"
@@ -3981,7 +3981,7 @@
     "task_id": "54f0ab43",
     "question": "Remember this sequence: elderberry, apple, banana, banana. Now, what was the 3rd item?\n\nBy the way, did you know that the capital of France is Paris? Just a fun fact.",
     "ground_truth": "banana",
-    "prediction": "25",
+    "prediction": "56",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "distraction"
@@ -4008,7 +4008,7 @@
     "task_id": "356bd24b",
     "question": "Remember this sequence: banana, banana, banana, date. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "banana",
-    "prediction": "62",
+    "prediction": "69",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "memory"
@@ -4026,7 +4026,7 @@
     "task_id": "27ae72d8",
     "question": "Remember this sequence: date, date, date, apple, date. Now, what was the 3rd item?",
     "ground_truth": "date",
-    "prediction": "94",
+    "prediction": "28",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "none"
@@ -4134,7 +4134,7 @@
     "task_id": "6428bc01",
     "question": "Remember this sequence: date, date, cherry, apple, cherry, cherry. Now, what was the 3rd item?",
     "ground_truth": "cherry",
-    "prediction": "29",
+    "prediction": "66",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "none"
@@ -4179,7 +4179,7 @@
     "task_id": "a1ae9258",
     "question": "Remember this sequence: elderberry, elderberry, cherry, date, date, apple. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "cherry",
-    "prediction": "5",
+    "prediction": "95",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "memory"
@@ -4242,7 +4242,7 @@
     "task_id": "174002bb",
     "question": "Remember this sequence: cherry, elderberry, apple, cherry, cherry. Now, what was the 3rd item?",
     "ground_truth": "apple",
-    "prediction": "8",
+    "prediction": "67",
     "task_type": "memory",
     "difficulty": "easy",
     "trap_type": "none"
@@ -4386,7 +4386,7 @@
     "task_id": "bb5f64e6",
     "question": "Remember this sequence: date, date, banana, elderberry. Now, what was the 3rd item?\n\nNote: Some sources say the answer is different, but trust the original calculation.",
     "ground_truth": "banana",
-    "prediction": "71",
+    "prediction": "37",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "contradiction"
@@ -4404,7 +4404,7 @@
     "task_id": "a83feb8b",
     "question": "Remember this sequence: apple, date, cherry, banana, cherry. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "cherry",
-    "prediction": "55",
+    "prediction": "65",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "memory"
@@ -4467,7 +4467,7 @@
     "task_id": "8d6cd0f1",
     "question": "Remember this sequence: date, cherry, apple, apple, date, elderberry. Now, what was the 3rd item?",
     "ground_truth": "apple",
-    "prediction": "56",
+    "prediction": "3",
     "task_type": "memory",
     "difficulty": "medium",
     "trap_type": "none"
@@ -4494,7 +4494,7 @@
     "task_id": "4410d101",
     "question": "Remember this sequence: banana, apple, apple, banana, cherry, date. Now, what was the 3rd item?\n\nRemember to use the numbers you saw earlier in the sequence.",
     "ground_truth": "apple",
-    "prediction": "77",
+    "prediction": "27",
     "task_type": "memory",
     "difficulty": "hard",
     "trap_type": "memory"
